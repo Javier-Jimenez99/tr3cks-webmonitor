@@ -40,19 +40,19 @@
     "url": "https://easyupscaler.net",
     "icon": "https://icons.duckduckgo.com/ip3/easyupscaler.net.ico",
     "slug": "easy-upscaler",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 325,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 445,
+    "timeDay": 354,
+    "timeWeek": 445,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2026-04-25": 0
+      "2026-04-25": 18
     }
   }
 ]
